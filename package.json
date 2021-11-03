@@ -1,0 +1,17 @@
+{
+  "name": "building-apis-lab",
+  "version": "1.0.0",
+  "description": "* Setup an API with a project structure like:",
+  "main": "chirpstore.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
